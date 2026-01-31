@@ -70,7 +70,7 @@ The Power BI dashboard includes:
 
 ---
 
-##🎯 Key Skills Demonstrated
+## 🎯 Key Skills Demonstrated
 
 - Data Cleaning & EDA
 
